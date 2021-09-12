@@ -1,0 +1,13 @@
+body {
+  background-color: #F9C98E;
+}
+
+button {
+  height: 60px;
+  border: solid 2px #d746ee;
+  border-radius: 10px 10px 10px 10px;
+}
+.rosep {
+  height: 300px;
+  width: 260px;
+}

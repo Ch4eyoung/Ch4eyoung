@@ -1,0 +1,53 @@
+body {
+  background-color: #F9C98E;
+}
+
+h1 {
+  font-family: "Brush Script Std", cursive;
+  /*adjustments*/
+  padding: 50px;
+  text-align: center;
+  height: 50px;
+  margin-top: 0px;
+  /*colors*/
+  color: #F3EAE6;
+  background-color: #EF7248;
+}
+
+h3 {
+  text-align: center;
+  font-style: italic;
+  border: solid 2px green;
+}
+
+.rose {
+  border: solid 1px #EF7248;
+  height: 230px;
+  width: 300px;
+  border-radius: 200px;
+  margin-left: 105px;
+}
+
+.album {
+  border-radius: 30px 0px 30px 0px;
+  border: solid 1px #d746ee;
+  height: 100px;
+  width: 100px;
+}
+.gray-element {
+  background-color: lightgray;
+
+}
+
+.description {
+  text-align: justify;
+  font-family: "Bradley Hand", cursive;
+  font-weight: lighter;
+}
+
+.socmed {
+  height: 40px;
+  width: 40px;
+  border-radius: 100px;
+  border: solid 2px;
+}
